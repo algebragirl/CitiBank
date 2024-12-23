@@ -154,7 +154,7 @@ else:
 
     st.header("Conclusions and Recommendations")
   
-#    myimage_2=st.image("Citibike_NYC_rend_01.jpg")
+    myimage_2=st.image("Citibike_NYC_render_01.jpg", width=400)
     st.markdown("### Our analysis has shown that CitiBike may consider the following recommendations when expanding their bike supply:")
     st.markdown("- Add more bikes to the stations whose start/end destinations are in high-volume tourist areas - namely Lenox Hill, Chelsea (in Upper East Side) and Lower East Side. These stations include: W 21 St/6th Ave; W 22 St/10th Ave; Norfolk St/Broome St; Henry St/Grand St; 1st Ave/E 62 St; 1st Ave/E 68 St; and W 21 St/6th Ave and 9th Ave/W 22 St.") 
     st.markdown("- If we look at rides>750, then we see that there are a lot of bike riders along the Hudson River. So places along the Hudson River that need to be stocked up include: Little West St/1 Pl; West St/Chambers St; Pier 40-Hudson River Park; 10th Ave/W 40 St. The station at Central Park S/6 Ave.")
